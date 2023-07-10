@@ -1,0 +1,4 @@
+Visual Studio Locator version 2.7.1+180c706d56 [query version 2.7.3111.17308]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+instanceId: be8ea0bf

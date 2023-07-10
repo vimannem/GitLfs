@@ -1,0 +1,60 @@
+Name	Path	CommandLine	Language	PnPID	Make	Model	Processor	OS	ServerOS	Exclude
+Gemalto	Gemalto.AMD64	OEMDriver.inf					X64			
+Gemalto	Gemalto.X86	OEMDriver.inf					X86			
+USB 3.0 WIN 7 x64	Win7_USB3.0_Drivers_x64	OEMDriver.inf					X64	6.1		
+USB 3.0 WIN 7 x86	Win7_USB3.0_Drivers_x86	OEMDriver.inf					X86	6.1		
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn017b			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn017c			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn017d			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn017e			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn017f			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0180			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0181			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0182			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0183			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0184			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0185			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0186			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0187			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0188			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0189			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn018a			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn018b			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn018c			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn018e			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn018f			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0190			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0191			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0192			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0193			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0194			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0195			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0196			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0197			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0198			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn0199			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn019a			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn019c			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn019d			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn3004			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn3005			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn3006			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn3007			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn300b			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn300c			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn300e			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn300f			X64			
+Synaptics PS/2 Port TouchPad	SynapticsPS-2PortTouchPad	OEMDriver.inf		*syn3010			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn018d			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn019b			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn019e			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn3001			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn3002			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn3003			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn3008			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn3009			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn300a			X64			
+Synaptics SMBus TouchPad	SynapticsSMBusTouchPad	OEMDriver.inf		*syn300d			X64			
+WACOM Device	WACOM_Device	OEMDriver.inf		acpi\wacf00e			X64			
+SmartCard	SmartCard	setup.cmd					X64			
+SmartCard	SmartCard	setup.cmd					X86			
